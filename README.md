@@ -1,4 +1,4 @@
-# Curso Alura - Programa One
+# Programa One
 
 Projetos praticados durante a formação do programa ONE e aprendidos nas aulas da plataforma Alura.
 
